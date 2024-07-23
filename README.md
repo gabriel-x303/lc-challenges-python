@@ -6,3 +6,4 @@
 # Alguma coisa
 * comando git commit
 # Testando o git pull
+*git fetch
